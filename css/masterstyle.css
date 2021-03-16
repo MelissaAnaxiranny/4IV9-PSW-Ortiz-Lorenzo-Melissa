@@ -9,6 +9,8 @@ html,body {
 }
 .main-container{
     border: 10px solid rgb(65, 5, 35)
+    border-radius 10px;
+    
 }
 
 
