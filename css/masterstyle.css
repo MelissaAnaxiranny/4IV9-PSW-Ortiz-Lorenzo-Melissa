@@ -9,4 +9,5 @@ html,body {
 }
 .main-container{
     border: 10px solid rgb(65, 5, 35)
+    margin: 2rem;
 }
